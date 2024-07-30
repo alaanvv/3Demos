@@ -1,0 +1,22 @@
+# Exported from Figuro at https://www.figuro.io
+
+mtllib newscene.mtl
+o rectangle1
+v -50 0 -250
+v 50 0 -250
+v 50 0 250
+v -50 0 250
+# 4 vertices
+vt -0.25447700237874976 3
+vt 0.25447700237874976 3
+vt 0.25447700237874976 -1
+vt -0.25447700237874976 -1
+# 4 uvs
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+# 4 normals
+usemtl bush01
+f 4/4/4 3/3/3 2/2/2 1/1/1 
+# 1 polygons
